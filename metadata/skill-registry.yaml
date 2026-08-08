@@ -1,0 +1,25 @@
+skills:
+  - id: consultant-v4
+    name: Consultant v4.x
+    command: /SKILL Consultant
+    version: 4.0.0
+    entrypoint: skills/consultant-v4/SKILL.md
+    compatibility_entrypoint: SKILL.md
+    status: active
+    default: true
+    domains:
+      - management-consulting
+      - management-systems
+      - hr
+      - labour-compliance
+      - governance
+      - audit
+      - risk
+      - knowledge-management
+      - esg
+      - transformation
+aliases:
+  - consultant
+  - consultant-v4
+  - consulting-framework
+  - consultancy-management-system

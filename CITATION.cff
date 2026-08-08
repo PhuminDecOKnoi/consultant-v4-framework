@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using the metadata below."
+title: "Consultant v4.x — Professional Consultancy Management System & Operating Framework"
+type: software
+version: 4.0.0
+date-released: 2026-08-08
+authors:
+  - family-names: "Decoknoi"
+    given-names: "Phumin"
+    alias: "PhuminDecOKnoi"
+license: MIT
+repository-code: "https://github.com/PhuminDecOKnoi/consultant-v4-framework"
+keywords:
+  - management consulting
+  - consultancy management system
+  - ISO consultant
+  - management system implementation
+  - HR consulting
+  - labour compliance
+  - governance
+  - audit
+  - risk management
+  - knowledge management
+  - benefits realization
+  - ISO 20700
+  - ISO 30201

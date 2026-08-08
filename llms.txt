@@ -1,0 +1,20 @@
+# Consultant v4.x
+
+Canonical repository: https://github.com/PhuminDecOKnoi/consultant-v4-framework
+
+Purpose: Professional Consultancy Management System & Operating Framework for management-system, HR, labour, compliance, governance, risk, legal-support, knowledge-management, ESG, audit and transformation consulting.
+
+Primary skill file: /skills/consultant-v4/SKILL.md
+Compatibility skill file: /SKILL.md
+
+Core architecture:
+1. Consultant Governance & Professional Control
+2. Commercial & Engagement Management
+3. Delivery, Implementation & Transformation
+4. Value, Acceptance, Knowledge & Sustainment
+
+Professional Gates: 0-12 from Opportunity / Client Fit through Sustainment Review.
+
+Source classes: [STD] [LAW] [CLIENT] [CONS] [DATA] [EVID]
+
+Important: This repository does not contain or replace licensed ISO standard text. Consultant-created tools are not ISO requirements unless an authoritative source expressly says so.

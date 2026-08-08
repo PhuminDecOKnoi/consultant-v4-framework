@@ -1,0 +1,24 @@
+{
+  "name": "consultant-v4-framework",
+  "displayName": "Consultant v4.x — Professional Consultancy Management System & Operating Framework",
+  "version": "4.0.0",
+  "visibility": "public",
+  "license": "MIT",
+  "owner": "PhuminDecOKnoi",
+  "primarySkill": "skills/consultant-v4/SKILL.md",
+  "domains": [
+    "management consulting",
+    "management systems",
+    "HR",
+    "labour compliance",
+    "governance",
+    "audit",
+    "risk",
+    "knowledge management",
+    "ESG",
+    "transformation"
+  ],
+  "sourceClasses": ["STD", "LAW", "CLIENT", "CONS", "DATA", "EVID"],
+  "professionalGates": 13,
+  "copyrightedStandardsIncluded": false
+}
